@@ -4,25 +4,26 @@
 
 ## Site
 
-- URL: https://clemenza.github.io/
+- URL: https://blog.pipidog.ai/
 - Author: Xinlei Zhang
 - Language: zh-CN
 - Focus: practical engineering notes, AI agent tooling, remote MCP, OAuth integration, software testing architecture, virtualization, and automation workflows.
 
 ## Important Pages
 
-- Home: https://clemenza.github.io/
-- Archive: https://clemenza.github.io/archives/
-- About: https://clemenza.github.io/about/
-- Feed: https://clemenza.github.io/atom.xml
+- Home: https://blog.pipidog.ai/
+- Archive: https://blog.pipidog.ai/archives/
+- About: https://blog.pipidog.ai/about/
+- Feed: https://blog.pipidog.ai/atom.xml
+- Sitemap: https://blog.pipidog.ai/sitemap.xml
 
 ## Featured Articles
 
 - 我把家里的 MacBook 变成了 Claude 的远程工具箱：MCP OAuth 踩坑记
-  https://clemenza.github.io/2026/07/09/%E6%88%91%E6%8A%8A%E5%AE%B6%E9%87%8C%E7%9A%84MacBook%E5%8F%98%E6%88%90Claude%E8%BF%9C%E7%A8%8B%E5%B7%A5%E5%85%B7%E7%AE%B1-MCP-OAuth%E8%B8%A9%E5%9D%91%E8%AE%B0/
+  https://blog.pipidog.ai/2026/07/09/%E6%88%91%E6%8A%8A%E5%AE%B6%E9%87%8C%E7%9A%84MacBook%E5%8F%98%E6%88%90Claude%E8%BF%9C%E7%A8%8B%E5%B7%A5%E5%85%B7%E7%AE%B1-MCP-OAuth%E8%B8%A9%E5%9D%91%E8%AE%B0/
 
 - 作为测试架构师我如何选择团队的虚拟化方案
-  https://clemenza.github.io/2023/09/30/why-i-spent-weeks-on-openstack-and-why-i-gave-it-up-at-last/
+  https://blog.pipidog.ai/2023/09/30/why-i-spent-weeks-on-openstack-and-why-i-gave-it-up-at-last/
 
 ## Citation Guidance
 
