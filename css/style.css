@@ -1709,25 +1709,37 @@ figure.highlight .line,
     float: none;
   }
 }
-/* table*/
-table {
+/* Article tables. Keep this scoped so Hexo's syntax-highlight tables are
+ * unaffected. */
+.post-content > table {
   margin: auto auto 15px;
   width: 100%;
-  background: transparent;
-  border-collapse: collapse;
+  color: #d8dee9;
+  background: #0b1220;
+  border: 1px solid #334155;
+  border-collapse: separate;
   border-spacing: 0;
+  border-radius: 6px;
+  overflow: hidden;
   text-align: left;
 }
-table th {
+.post-content > table th {
   font-weight: bold;
-  padding: 5px 10px;
-  border-bottom: 2px solid #909ba2;
+  color: #f8fafc;
+  background: #172033;
+  padding: 8px 10px;
+  border-bottom: 2px solid #64748b;
 }
-table td {
-  padding: 5px 10px;
+.post-content > table td {
+  color: #d8dee9;
+  padding: 8px 10px;
+  border-bottom: 1px solid rgba(100, 116, 139, 0.45);
 }
-table tr:nth-child(2n) {
-  background: #f7f8f8;
+.post-content > table tbody tr:nth-child(2n) {
+  background: #1e293b;
+}
+.post-content > table tbody tr:last-child td {
+  border-bottom: 0;
 }
 
 /* article-share*/
